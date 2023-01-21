@@ -3,7 +3,7 @@
 <p>My name is Guilherme Parreira, and I am currently studying web development at Fanshawe.</p>
 
 <div>
-        <p>I am currently learning :man_student:</p>
+    <p>I am currently learning :man_student:</p>
         <ul>
             <li>Java Script</li>
             <li>HTML</li>
