@@ -1,21 +1,26 @@
-# Hi there :wave:
+<h1> Hi there :wave:</h1>
 
-My name is Guilherme Parreira, and I am currently studying web development at Fanshawe.
+<p>My name is Guilherme Parreira, and I am currently studying web development at Fanshawe.</p>
 
-I am currently learning :man_student:
-  - Java Script
-  - HTML
-  - CSS
-  - Data Bases(my sql & Oracle SQL Developer)
-  - PHP
+<div>
+        <p>I am currently learning :man_student:</p>
+        <ul>
+            <li>Java Script</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Data Bases(my sql & Oracle SQL Developer)</li>
+            <li>PHP</li>
+        </ul>
+</div>
 
 
+<div>
+   <p>How to reach me:</p>
+   <p>:iphone: (905)781-8441</p>
+   <p>:email: guilherme.parreira1998@hotmail.com</p>
+   <p>Linkedin: https://www.linkedin.com/in/guilherme-parreira-b09b78169/</p>
 
-How to reach me <br>
-  :iphone: (905)781-8441 <br>
-  :email: guilherme.parreira1998@hotmail.com <br>
-  Linkedin: https://www.linkedin.com/in/guilherme-parreira-b09b78169/ 
-  
+</div>
 
 
 <div style="display: inline_block"><br>
