@@ -8,7 +8,7 @@
             <li>Java Script</li>
             <li>HTML</li>
             <li>CSS</li>
-            <li>Data Bases(my sql & Oracle SQL Developer)</li>
+            <li>Data Bases(My sql & Oracle SQL Developer)</li>
             <li>PHP</li>
         </ul>
 </div>
